@@ -108,5 +108,4 @@ MIT License
 Made with ❤️ by [@aemalyar](https://github.com/aemalyar)
 For collabs or support, reach out via [Glitchy Server](https://discord.gg/n8J4UPRwWS)
 
-```
 
